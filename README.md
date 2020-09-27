@@ -1,3 +1,3 @@
 # NoPixel-Clothing
 NoPixel-Clothing
-Fixed By Chickzy, fully working with tattos, hair shops, clothes ENJOY ;D
+ServerSided + ClientSided (tattos) By .chickZ, fully working with tattos, hair shops, clothes ENJOY ;D
